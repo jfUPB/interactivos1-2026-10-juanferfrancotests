@@ -21,9 +21,12 @@ function draw(){
 
 ```
 
+Finalización de la actividad 1
+
 
 ## Bitácora de aplicación 
 
 
 
 ## Bitácora de reflexión
+
